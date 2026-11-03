@@ -82,17 +82,31 @@ S3 deployment automation successfully tested using GitHub Actions.
 CloudFront integration is planned.
 
 
-
 ## Project Screenshots
 
-### GitHub Actions Deployment
+### 1. GitHub Actions Deployment
 ![GitHub Actions Success](screenshots/GitHub%20Action%20Success.png)
 
-### AWS IAM Role
+### 2. AWS IAM Role
 ![AWS IAM Role](screenshots/IAM%20Role.png)
 
-### Amazon S3 Objects
+### 3. Amazon S3 Bucket
 ![S3 Objects](screenshots/S3%20Objects.png)
+
+### 4. CloudFront Distribution
+![CloudFront Distribution](screenshots/CloudFront%20Distribution.png)
+
+### 5. CloudFront Origin Configuration
+![CloudFront Origin](screenshots/CloudFront%20Origin.png)
+
+### 6. S3 Security Configuration
+![S3 Security](screenshots/S3%20Security.png)
+
+### 7. Live Website
+![Live Website](screenshots/Live%20Website.png)
+
+
+
 
 
 ## Live Website
