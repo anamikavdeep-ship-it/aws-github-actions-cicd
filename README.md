@@ -103,7 +103,7 @@ CloudFront integration is planned.
 ![S3 Security](screenshots/S3%20Security.png)
 
 ### 7. Live Website
-![Live Website](screenshots/Live%20Website.png)
+![Live Website](screenshots/Cloudfront%20URL.png)
 
 
 
