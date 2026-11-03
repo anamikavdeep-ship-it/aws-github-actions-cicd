@@ -109,15 +109,17 @@ CloudFront integration is planned.
 
 
 
+
 ## Live Website
 
-The website is deployed on Amazon CloudFront:
+🌐 **Visit the deployed website:**
 
-https://dspopw8ykxfic.cloudfront.net
+[Open My AWS CI/CD Portfolio](https://dspopw8ykxfic.cloudfront.net)
 
 ## Deployment Architecture
 
 GitHub → GitHub Actions → AWS OIDC → IAM Role → Amazon S3 → Amazon CloudFront
+
 
 ## Live Demo
 
