@@ -93,3 +93,24 @@ CloudFront integration is planned.
 
 ### Amazon S3 Objects
 ![S3 Objects](screenshots/S3%20Objects.png)
+
+
+## Live Website
+
+The website is deployed on Amazon CloudFront:
+
+https://dspopw8ykxfic.cloudfront.net
+
+## Deployment Architecture
+
+GitHub → GitHub Actions → AWS OIDC → IAM Role → Amazon S3 → Amazon CloudFront
+
+## Live Demo
+
+**Visit the deployed website:**
+
+https://dspopw8ykxfic.cloudfront.net
+
+## Architecture
+
+GitHub → GitHub Actions → AWS OIDC → IAM Role → Amazon S3 → Amazon CloudFront
