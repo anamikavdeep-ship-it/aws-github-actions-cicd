@@ -80,3 +80,16 @@ It runs automatically when relevant website files are pushed to the main branch.
 S3 deployment automation successfully tested using GitHub Actions.
 
 CloudFront integration is planned.
+
+
+
+## Project Screenshots
+
+### GitHub Actions Deployment
+![GitHub Actions Success](screenshots/GitHub%20Action%20Success.png)
+
+### AWS IAM Role
+![AWS IAM Role](screenshots/IAM%20Role.png)
+
+### Amazon S3 Objects
+![S3 Objects](screenshots/S3%20Objects.png)
