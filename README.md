@@ -114,7 +114,13 @@ CloudFront integration is planned.
 
 🌐 **Visit the deployed website:**
 
-[Open My AWS CI/CD Portfolio](https://dspopw8ykxfic.cloudfront.net)
+## Project Demonstration
+
+This project was successfully deployed and tested on AWS.
+The AWS infrastructure has since been decommissioned.
+
+Please refer to the architecture, workflow configuration,
+and screenshots in this repository for the implementation.
 
 ## Deployment Architecture
 
