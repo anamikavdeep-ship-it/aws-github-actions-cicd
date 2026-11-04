@@ -127,12 +127,6 @@ and screenshots in this repository for the implementation.
 GitHub → GitHub Actions → AWS OIDC → IAM Role → Amazon S3 → Amazon CloudFront
 
 
-## Live Demo
-
-**Visit the deployed website:**
-
-https://dspopw8ykxfic.cloudfront.net
-
 ## Architecture
 
 GitHub → GitHub Actions → AWS OIDC → IAM Role → Amazon S3 → Amazon CloudFront
